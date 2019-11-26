@@ -1,0 +1,2 @@
+cd C:\Users\32489\git\restassuredemployeeproject\RestassuredAPITesting_Employee_Project
+mvn clean install
